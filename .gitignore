@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Uploaded company documents
+backend/uploads/*
+
+# macOS
+.DS_Store
